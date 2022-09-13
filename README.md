@@ -1,5 +1,4 @@
-### Hi there 👋
-
+java  spring hibernate springjpa csharp dotnet postman javascript react angular html5 css3 bootstrap python pandas numpy mssql postgresql git linux         
 
 
 
