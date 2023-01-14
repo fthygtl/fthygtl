@@ -18,7 +18,3 @@ Skills:
 
 
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fthygtl&count_private=true&theme=tokyonight&showicons=true)]()
-
-
