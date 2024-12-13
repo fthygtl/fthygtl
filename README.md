@@ -1,4 +1,4 @@
-My name is <a href="https://www.linkedin.com/in/fatih-yi%C4%9Fitel-489b971b7/">Fatih Yiğitel</a>. I'm a Jr. FullStack developer who is still learning and improving himself. 
+My name is <a href="https://www.linkedin.com/in/fatih-yi%C4%9Fitel-489b971b7/">Fatih Yiğitel</a>. I'm a software engineer who is learning and improving himself. 
 
 
 🌍 I'm based in Germany
